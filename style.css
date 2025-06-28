@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+footer{
+    border: 15px pink solid;
+    border-radius: 30px;
+    background-color: rgb(255, 218, 183);
+}
+.han{
+    border: 5px rgb(249, 146, 146) double;
+    border-radius:6px ;
+
+}
+b{
+    background-color: rgb(185, 233, 233);
+    font-size: 27px;
+}
+.xuc{
+    font-size: 40px;
+    color: purple
+}
+h2{
+    font-size: 35px;
+    color: blueviolet;
+    background-color: pink;
+}
+p{
+    font-size: 26px;
+    color: rgb(145, 70, 83)
+}
+h1{
+    color: rgb(89, 64, 25) ;
+    border: 3px solid green;
+    background-color: rgb(188, 167, 114);
+}
+body{
+    background-color: antiquewhite;
+}
